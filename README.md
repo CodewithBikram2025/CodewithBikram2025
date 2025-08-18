@@ -1,202 +1,205 @@
-<!-- Header with animated background -->
+<!-- Header with working animation -->
 <div align="center">
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Bikramjit%20Pakhira&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Hardware%20Enthusiast&descAlignY=51&descAlign=62"/>
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Bikramjit%20Pakhira&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Hardware%20Enthusiast&descAlignY=51&descAlign=62"/>
 </div>
 
-<!-- Animated typing -->
+<!-- Working typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+Turning+Coffee+into+Code;🤖+Building+AI+%2B+Hardware+Magic;⚡+Where+Innovation+Meets+Implementation" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=💻+Passionate+Full+Stack+Developer;🤖+AI+%26+Robotics+Enthusiast;⚡+Hardware+%2B+Software+Creator;🚀+Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-<!-- Profile badges -->
+<br/>
+
+<!-- Profile stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&style=for-the-badge&color=667eea&labelColor=1a1a2e" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/YourUsername?style=for-the-badge&color=667eea&labelColor=1a1a2e" alt="Followers">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Robotics-667eea?style=for-the-badge&labelColor=1a1a2e" alt="Focus">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-green?style=for-the-badge&labelColor=1a1a2e" alt="Status">
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=667eea" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/YourUsername?style=flat-square&color=667eea" alt="Followers">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20IoT-667eea?style=flat-square" alt="Focus">
 </p>
 
 ---
 
-<!-- About me section with cool design -->
-<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## 🧑‍💻 About Me
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-```javascript
-const bikramjit = {
-    pronouns: "He" | "Him",
-    location: "India 🇮🇳",
-    code: ["Python", "JavaScript", "C/C++", "HTML/CSS"],
-    askMeAbout: ["Web Dev", "AI/ML", "Arduino", "Robotics", "Tech"],
-    technologies: {
-        frontEnd: ["React", "HTML", "CSS", "JavaScript"],
-        backEnd: ["Node.js", "Express", "Python", "Flask"],
-        databases: ["MongoDB", "MySQL", "Firebase"],
-        hardware: ["Arduino", "Raspberry Pi", "Sensors", "IoT"],
-        tools: ["Git", "Docker", "VS Code", "Figma"],
-        ai_ml: ["TensorFlow", "PyTorch", "OpenCV", "Pandas"]
-    },
-    currentFocus: "Building AI-powered IoT solutions 🚀",
-    funFact: "I can make robots dance and websites sing! 🎵🤖"
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  currentWork: string[];
+  skills: string[];
+  interests: string[];
+  motto: string;
+}
+
+const bikramjit: Developer = {
+  name: "Bikramjit Pakhira",
+  location: "India 🇮🇳",
+  currentWork: [
+    "Building AI-powered applications",
+    "Creating IoT solutions with Arduino",
+    "Full-stack web development"
+  ],
+  skills: [
+    "Python", "JavaScript", "C/C++", 
+    "React", "Node.js", "Arduino",
+    "Machine Learning", "Web Development"
+  ],
+  interests: [
+    "Artificial Intelligence 🤖",
+    "Robotics & Hardware 🔧", 
+    "Web Technologies 🌐",
+    "Open Source Projects 📚"
+  ],
+  motto: "Code + Hardware = Endless Possibilities ⚡"
 };
 ```
 
-<br/>
+<br clear="right"/>
 
 ---
 
-<!-- Skills section with animated icons -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Technologies</b>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mongodb&theme=dark" alt="Skills" /><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,vscode,arduino,raspberrypi&theme=dark" alt="Skills" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,docker,linux,figma,firebase,mysql&theme=dark" alt="Skills" />
-</div>
-
-<br/>
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GitHub Stats with custom theme -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=chartreuse-dark&hide_border=true" />
-  
-</td>
-
-<td width="50%" align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=chartreuse-dark&layout=compact&hide_border=true&langs_count=8" />
-  
-  <br/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourUsername&theme=chartreuse_dark" />
-
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=0f2027&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
-</div>
-
-<br/>
-
-<!-- Trophy Section -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=matrix&no-frame=true&no-bg=true&margin-w=15&column=7" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Projects Section -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>Featured Projects</b>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Project 1
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1&theme=chartreuse-dark&hide_border=true)](https://github.com/YourUsername/Project1)
-
-**Tech Stack:** `Python` `TensorFlow` `Arduino`
-
-</td>
-<td width="50%">
-
-### 🤖 Project 2
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project2&theme=chartreuse-dark&hide_border=true)](https://github.com/YourUsername/Project2)
-
-**Tech Stack:** `React` `Node.js` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 Project 3
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project3&theme=chartreuse-dark&hide_border=true)](https://github.com/YourUsername/Project3)
-
-**Tech Stack:** `JavaScript` `HTML/CSS` `Firebase`
-
-</td>
-<td width="50%">
-
-### ⚡ Project 4
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project4&theme=chartreuse-dark&hide_border=true)](https://github.com/YourUsername/Project4)
-
-**Tech Stack:** `C++` `Arduino` `IoT`
-
-</td>
-</tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Connect section with animated icons -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>Let's Connect!</b>
-
-<div align="center">
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  bikramjit--%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="mailto:youremail@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  bikramjit-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  bikramjit-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://instagram.com/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  bikramjit-%2300acee.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-</a>
-</div>
-
-<!-- Fun section -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> <b>Random Dev Quote</b>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay" />
-</div>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</div>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### Hardware & IoT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 </div>
 
 ---
 
-<p align="center">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
-<img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile">
-</p>
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=8B949E&custom_title=Bikramjit's%20GitHub%20Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=8B949E" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=0D1117&color=8B949E&line=F85D7F&point=F8D866&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
+  <a href="https://github.com/YourUsername/Project1">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=8B949E&icon_color=F8D866" />
+  </a>
+  
+  <a href="https://github.com/YourUsername/Project2">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=8B949E&icon_color=F8D866" />
+  </a>
+  
+</div>
+
+<div align="center">
+  
+  <a href="https://github.com/YourUsername/Project3">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project3&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=8B949E&icon_color=F8D866" />
+  </a>
+  
+  <a href="https://github.com/YourUsername/Project4">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project4&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=8B949E&icon_color=F8D866" />
+  </a>
+  
+</div>
+
+---
+
+## 🌟 Current Focus
+
+<div align="center">
+
+| 🎯 **Learning** | 🔥 **Working On** | 💡 **Interested In** |
+|:---:|:---:|:---:|
+| Deep Learning | AI-Powered IoT Projects | Edge Computing |
+| Cloud Architecture | Robotics Automation | Computer Vision |
+| Microservices | Full-Stack Applications | Hardware Integration |
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&interchange=true&bar_color=F85D7F&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+</div>
+
+<div align="center">
+
+### 🌟 Thanks for visiting! Let's build something amazing together! 🌟
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge)
+
+</div>
