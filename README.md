@@ -49,9 +49,10 @@ const bikramjit = {
 |:----------:|:-------------:|:----------:|:------------:|
 | **🏥 HealthMate 2025** | React, Node.js, MongoDB | ✅ Live | [Visit](https://healthmate2025.ct.ws/?i=1) |
 | **🍴 KhaabarAdda** | HTML, CSS, JavaScript | ✅ Live | [Visit](https://khaabaradda.free.nf/?i=1) |
-| **💼 Portfolio 2025** | HTML, CSS, JavaScript | ✅ Live | [Visit](https://codewithbikram2025.github.io/portfolio_2025/) |
+| **💼 Portfolio 2025** | HTML, CSS, JavaScript | ✅ Live | [Visit]((https://portfolio-2025-rho-jet.vercel.app/)) |
 | **🤖 Tony AI Assistant** | Python, Speech API | ✅ Live | [Visit](https://codewithbikram2025.github.io/Tony-Ai-Virtual-Assistant/) |
-| **✨ Sitara AI** | React, AI APIs | ✅ Live | [Visit](https://sitaraai.free.nf/?i=1) |
+| **✨ Sitara AI** | React, AI APIs | ✅ Live | [Visit](https://sitara-ai-rh58.vercel.app/) |
+| **❄️ WeatherPro** | HTML, TailwindCSS, Javascript , AI APIs | ✅ Live | [Visit]((https://codewithbikram2025.github.io/WeatherPro/)) |
 
 </div>
 
