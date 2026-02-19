@@ -47,7 +47,8 @@ const bikramjit = {
 
 | 🎨 Project | 🔧 Tech Stack | 🌟 Status | 🔗 Live Demo |
 |:----------:|:-------------:|:----------:|:------------:|
-| **🚀 Wizard – AI** | React, CSS, JavaScript, TypeScript, Python, Gemini API| ✅ Live | [Visit](https://wizard-dtmz.onrender.com/) |
+| **🚀 Wizard – AI** | React, CSS, JavaScript, TypeScript, Python, Gemini API | ✅ Live | [Visit](https://wizard-dtmz.onrender.com/) |
+| **🌊 Tattva : Smart Platform for Green Hydrogen Production** | HTML, TailwindCSS, Node.js, Python, Firebase | ✅ Live | [Visit](https://tattva-f5ws.onrender.com/) |
 | **🏥 HealthMate 2025** | React, Node.js, MongoDB | ✅ Live | [Visit](https://healthmate2025.ct.ws/?i=1) |
 | **🍴 KhaabarAdda** | HTML, CSS, JavaScript | ✅ Live | [Visit](https://khaabaradda.free.nf/?i=1) |
 | **💼 Portfolio 2025** | HTML, CSS, JavaScript | ✅ Live | [Visit](https://portfolio-2025-rho-jet.vercel.app/) |
