@@ -48,10 +48,11 @@ const bikramjit = {
 | 🎨 Project | 🔧 Tech Stack | 🌟 Status | 🔗 Live Demo |
 |:----------:|:-------------:|:----------:|:------------:|
 | **🚀 Wizard – AI** | React, CSS, JavaScript, TypeScript, Python, Gemini API | ✅ Live | [Visit](https://wizard-dtmz.onrender.com/) |
+| **⚡BharatPower.io : BharatPower is a real-time energy intelligence platform for India’s electricity market, making complex data on pricing, grid health, and utility performance transparent, accessible, and easy to understand.** | React.js, Next.js, HTML, Flask-3, Python, JavaScript, Tailwind CSS, Firebase | ✅ Live | [Visit](https://bharatpower.netlify.app/)
 | **🌊 Tattva : Smart Platform for Green Hydrogen Production** | HTML, TailwindCSS, Node.js, Python, Firebase | ✅ Live | [Visit](https://tattva-f5ws.onrender.com/) |
+| **💼 Portfolio 2026** | HTML, Astro, WebGL, GSAP, Three.js, Tailwind CSS, JavaScript | ✅ Live | [Visit](https://bikramjit-portfolio.vercel.app/) |
 | **🏥 HealthMate 2025** | React, Node.js, MongoDB | ✅ Live | [Visit](https://healthmate2025.ct.ws/?i=1) |
 | **🍴 KhaabarAdda** | HTML, CSS, JavaScript | ✅ Live | [Visit](https://khaabaradda.free.nf/?i=1) |
-| **💼 Portfolio 2025** | HTML, CSS, JavaScript | ✅ Live | [Visit](https://portfolio-2025-rho-jet.vercel.app/) |
 | **🤖 Tony AI Assistant** | Python, Speech API | ✅ Live | [Visit](https://codewithbikram2025.github.io/Tony-Ai-Virtual-Assistant/) |
 | **✨ Sitara AI** | React, AI APIs | ✅ Live | [Visit](https://sitara-ai-rh58.vercel.app/) |
 | **❄️ WeatherPro** | HTML, TailwindCSS, Javascript , AI APIs | ✅ Live | [Visit](https://codewithbikram2025.github.io/WeatherPro/) |
